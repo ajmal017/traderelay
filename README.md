@@ -1,4 +1,4 @@
-# traderelay
+# Traderelay
 Traderelay (relays Tradingview.com alerts to exchanges)
 
 Traderelay is a lightweight windows software that allows you to automate your tradingview.com strategies!
